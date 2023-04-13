@@ -1,5 +1,5 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Self Love!"); 
+        System.out.println("I'm Waiting!"); 
     }
 }
